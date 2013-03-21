@@ -26,7 +26,7 @@
      <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">         
-          <a class="brand" href="index.html">Darwin</a>
+          <a class="brand" href="index.html">CI06</a>
           <div class="nav-collapse collapse">            
             <form class="navbar-form pull-right">
               <input class="span2" type="text" placeholder="Email">

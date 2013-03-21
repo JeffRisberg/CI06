@@ -1,5 +1,5 @@
 <div class="hero-unit">
-	<h2>The Darwin organization carries out idea sourcing.</h2>
+	<h2>The CI06 organization carries out idea sourcing.</h2>
 	<p>
 		<a class="btn btn-primary btn-large">Learn more &raquo;</a>
 	</p>
@@ -8,7 +8,7 @@
 <div class="row-fluid">
 	<div class="span4">
 		<h2>Mission</h2>
-		<p>Darwin provides the tools and resources to empower everyone to contribute 
+		<p>CI06 provides the tools and resources to empower everyone to contribute 
 		to a better world. Our community's mission is to grow new ideas through 
 		transparency and collaboration, a process of Open Growth. No matter where you 
 		are starting, or where you are going, we make it easier to share an
@@ -42,7 +42,7 @@
 	</div>
 	<div class="span4">
 		<h2>Our Team</h2>
-		<p>The Darwin team works from locations around the world in the United States, Canada, Germany, and Brazil.</p>
+		<p>The CI06 team works from locations around the world in the United States, Canada, Germany, and Brazil.</p>
 		<h4>Members</h4>
 			<table class="table">
 			<tr>
