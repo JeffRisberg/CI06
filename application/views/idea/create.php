@@ -1,3 +1,5 @@
+<script src="<?php echo base_url();?>assets/js/ckeditor.js"></script>
+
 <?php if (validation_errors()) {
 	echo validation_errors('<p class="error">','</p>');
 } ?>
@@ -15,7 +17,8 @@
 <p>
 	<strong>Body</strong>: (HTML mode)
 </p>
-<textarea rows="6" cols="80%" name="body" style="resize: none;"></textarea>
+<textarea class="ckeditor" cols="80" id="body" name="body" rows="10">        
+</textarea>
 <br clear="all" />
 
 <p>
