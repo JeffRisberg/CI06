@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
  
 <head>
-    <title>Rubric Logout Screen | Welcome </title>
+    <title>CI06 Logout Screen | Welcome </title>
 </head>
 <body>
     <div id="logout_form">

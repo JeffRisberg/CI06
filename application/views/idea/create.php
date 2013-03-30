@@ -1,4 +1,4 @@
-<script src="<?php echo base_url();?>assets/js/ckeditor.js"></script>
+<script src="<?php echo base_url();?>ckeditor/ckeditor.js"></script>
 
 <?php if (validation_errors()) {
 	echo validation_errors('<p class="error">','</p>');
@@ -17,8 +17,11 @@
 <p>
 	<strong>Body</strong>: (HTML mode)
 </p>
-<textarea class="ckeditor" cols="80" id="body" name="body" rows="10">        
+<textarea cols="80" id="body" name="body" rows="10">        
 </textarea>
+           <script>              
+                CKEDITOR.replace( 'body' );               
+            </script>
 <br clear="all" />
 
 <p>

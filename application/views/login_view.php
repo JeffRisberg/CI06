@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
  
 <head>
-    <title>Rubric Login Screen | Welcome </title>
+    <title>CI06 Login Screen | Welcome </title>
 </head>
 <body>
     <div id="login_form">
