@@ -13,5 +13,8 @@
       {yield}
       <?php $this->load->view('_footer');?>
     </div>
+    
+    <script src="<?php echo base_url();?>assets/js/jquery-1.8.3.min.js"></script>
+    <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
   </body>
 </html>  
