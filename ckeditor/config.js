@@ -15,8 +15,8 @@ CKEDITOR.editorConfig = function( config )
     ['Link','Unlink'],
     ['Table','HorizontalRule','SpecialChar'],
     ['Bold','Italic','StrikeThrough'],
-    ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock','-','BidiLtr','BidiRtl'],
-    
+    ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
+    /* this starts a new line, because we have filled the first line.  There is probably also an option to specify a new line */
     ['Format', 'FontSize', 'Subscript','Superscript', 'NumberedList','BulletedList','Outdent','Indent','Blockquote'],
     ['ShowBlocks', 'RemoveFormat', 'Source']
   ];

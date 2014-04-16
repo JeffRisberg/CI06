@@ -1,5 +1,5 @@
 <div class="hero-unit">
-	<h2>The CI06 organization carries out idea sourcing.</h2>
+	<h2>The CI06 organization carries out ideasourcing</h2>
 	<p>
 		<a class="btn btn-primary btn-large">Learn more &raquo;</a>
 	</p>
@@ -25,7 +25,7 @@
 		</p>
 	</div>
 	<div class="span4">
-		<h2>Communities we Serve</h2>
+		<h2>Communities We Serve</h2>
 		<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
 			tellus ac cursus commodo, tortor mauris condimentum nibh, ut
 			fermentum massa justo sit amet risus. Etiam porta sem malesuada magna

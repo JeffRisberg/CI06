@@ -12,8 +12,7 @@
 			}
 		</style>
 	
-		<link rel="stylesheet/less" type="text/css" href="<?php echo base_url();?>assets/css/styles.less">
-		<script type="text/javascript" src="<?php echo base_url();?>assets/js/less-1.3.0.min.js"></script>
+		<link rel="stylesheet/less" type="text/css" href="<?php echo base_url();?>assets/css/styles.css">
 	  
 	  <!--[if lt IE 9]>
 	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
