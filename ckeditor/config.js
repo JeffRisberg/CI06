@@ -18,9 +18,14 @@ CKEDITOR.editorConfig = function( config )
     ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
     /* this starts a new line, because we have filled the first line.  There is probably also an option to specify a new line */
     ['Format', 'FontSize', 'Subscript','Superscript', 'NumberedList','BulletedList','Outdent','Indent','Blockquote'],
-    ['ShowBlocks', 'RemoveFormat', 'Source']
+    ['ShowBlocks', 'RemoveFormat', 'Source'],
+    [ 'doksoft_image']
   ];
   
   config.width = 800;
   config.height = 200;
+
+  config.extraPlugins = 'doksoft_image';
+
+  config.doksoft_uploader_url = '/CI06/ckeditor/plugins/doksoft_uploader/uploader.php';
 };
