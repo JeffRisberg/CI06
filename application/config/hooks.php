@@ -10,7 +10,7 @@
 |
 */
 
-$hook['display_override'][] = array('class' => 'Yield',
+$hook['display_override'][] = array('class' => 'Yield1',
 		'function' => 'doYield',
 		'filename' => 'Yield.php',
 		'filepath' => 'hooks'
