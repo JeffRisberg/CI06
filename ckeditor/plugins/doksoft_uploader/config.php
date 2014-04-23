@@ -4,14 +4,14 @@
 // Will affect to client (JS) part of plugins.
 // By default script is configured to automatically detect it.
 // If you want to change it, do it like this:
- $config['BaseUrl'] = 'http://localhost:8888/CI06/assets/userfiles/';
+ $config['BaseUrl'] = 'http://localhost/CI06/assets/userfiles/';
 //$config['BaseUrl'] = preg_replace('/(uploader\.php.*)/', 'userfiles/', $_SERVER['PHP_SELF']);
 
 // Absolute or relative path to directory on the server where uploaded files will be stored.
 // Used by this PHP script only.
 // By default it automatically detects the directory.
 // You can change it, see this example:
- $config['BaseDir'] = "/Users/Spoorthya/Sites/CI06/assets/userfiles/";
+ $config['BaseDir'] = "C:/wamp/www/CI06/assets/userfiles/";
 //$config['BaseDir'] = dirname(__FILE__).'/userfiles/';
 
 $config['ResourceType']['Files'] = Array(

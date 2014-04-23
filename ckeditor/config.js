@@ -9,7 +9,7 @@ CKEDITOR.editorConfig = function( config )
  
   config.toolbar_MyToolbar = [
     ['Maximize'],   
-    ['pyroimages', 'pyrofiles'],
+    [ 'doksoft_image'],
     ['Cut','Copy','Paste','PasteFromWord'],
     ['Undo','Redo','-','Find','Replace'],
     ['Link','Unlink'],
@@ -18,8 +18,8 @@ CKEDITOR.editorConfig = function( config )
     ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
     /* this starts a new line, because we have filled the first line.  There is probably also an option to specify a new line */
     ['Format', 'FontSize', 'Subscript','Superscript', 'NumberedList','BulletedList','Outdent','Indent','Blockquote'],
-    ['ShowBlocks', 'RemoveFormat', 'Source'],
-    [ 'doksoft_image']
+    ['ShowBlocks', 'RemoveFormat', 'Source']
+    
   ];
   
   config.width = 800;
