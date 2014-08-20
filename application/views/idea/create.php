@@ -15,13 +15,13 @@
 <br clear="all" />
 
 <p>
-	<strong>Body</strong>: (HTML mode)
+	<strong>Body</strong>:
 </p>
 <textarea cols="80" id="body" name="body" rows="10">        
 </textarea>
-           <script>              
-                CKEDITOR.replace( 'body' );               
-            </script>
+<script>              
+  CKEDITOR.replace( 'body' );               
+</script>
 <br clear="all" />
 
 <p>
